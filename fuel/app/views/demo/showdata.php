@@ -5,6 +5,6 @@
 	<title>Document</title>
 </head>
 <body>
-FuelPHP-test
+<?php echo $text; ?>
 </body>
 </html>
